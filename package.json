@@ -1,0 +1,9 @@
+{
+  "name": "bd-school-management-platform",
+  "version": "1.0.0",
+  "private": true,
+  "scripts": {
+    "build": "cd frontend && npm.cmd run build",
+    "start": "cd backend && node src/index.js"
+  }
+}

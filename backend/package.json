@@ -1,0 +1,15 @@
+{
+  "name": "bd-sms-backend",
+  "version": "1.0.0",
+  "description": "Bangladesh School Management System Backend with zero-limit local SQLite",
+  "type": "module",
+  "main": "src/index.js",
+  "scripts": {
+    "start": "node src/index.js",
+    "dev": "node --watch src/index.js"
+  },
+  "dependencies": {
+    "cors": "^2.8.5",
+    "express": "^4.21.2"
+  }
+}
